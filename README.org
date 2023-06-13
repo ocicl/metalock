@@ -1,0 +1,10 @@
+* metalock
+
+a metaclass that makes building parallel systems easier by providing each slot within a class a lock which is grabbed automatically
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/metalock.git   |
+| commit  | 2718548  |
+| systems | metalock |
+|---------+-------------------------------------------|
+
